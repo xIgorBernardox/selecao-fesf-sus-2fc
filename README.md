@@ -107,5 +107,5 @@ selecao-fesf-sus/
 Tecnólogo em Análise e Desenvolvimento de Sistemas — Estácio da Bahia
 
 - GitHub: [@xigorbernardox](https://github.com/xigorbernardox)
-- LinkedIn: [igorbernardo](https://www.linkedin.com/in/igorbernardo-3828301b7/)
+- LinkedIn: [igorbernardo](https://www.linkedin.com/in/igor-bernardo-3828301b7/)
 - E-mail: igorbernardo.dev@gmail.com
